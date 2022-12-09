@@ -23,6 +23,7 @@ class script(object):
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ɪᴅᴋ\n
 📢 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/FILMY_MEN><b></b>ғɪʟᴍʏ ᴍᴇɴ</a>\n
+🎬 ʀᴇǫ ɢʀᴏᴜᴘ :   <a href=https://t.me/FILMY_ROG><b></b>ғɪʟᴍʏ ʀᴏɢ</a>\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
