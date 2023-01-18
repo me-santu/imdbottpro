@@ -15,7 +15,7 @@
   <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>IMDB OTT BOT</b>
 </h1>
 
 
@@ -67,7 +67,7 @@ Read [this](https://telegram.dog/GreyMatter_Bots) before you start messing up wi
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/RWs6sh8m2Uk)**</i>
+<i>**[Watch Deploying Tutorial...](https://youtube.com)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
